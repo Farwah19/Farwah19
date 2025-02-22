@@ -23,6 +23,11 @@
 <a href="https://instagram.com/https://www.instagram.com/farwah._.hamid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/farwah._.hamid/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">TryHackMe Profile:</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/zumarr.png" alt="Your Image Badge" /></a>
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
