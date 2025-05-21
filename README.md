@@ -4,17 +4,15 @@
 
 <!--<p align="left"> <a href="https://twitter.com/farwah_hamid" target="blank"><img src="https://img.shields.io/twitter/follow/farwah_hamid?logo=twitter&style=for-the-badge" alt="farwah_hamid" /></a> </p>-->
 
-- 🔭 I’m currently working on **my skills**.
+### 👋 About Me
 
-- 🌱 I’m currently learning **Python**.
+- 🔐 I’m currently diving into **Cybersecurity** and learning key skills like DFIR, GRC, and ethical hacking.
+- 🌱 I’m also learning **Python** to support automation and analysis in security.
+- 👯 I’m open to collaborating on **professional, educational, and cybersecurity-related projects**.
+- 💬 Ask me about **any programming languages or security concepts I’m familiar with**.
+- 📫 Reach me at: **farwah.hamid21@gmail.com**
+- ⚡ Fun fact: **Sometimes, I’m just out of reach (probably analyzing logs 😉).**
 
-- 👯 I’m looking to collaborate on **Every knowledgeable and professional project**.
-
-- 💬 Ask me about **any language I know**.
-
-- 📫 You can reach me through **farwah.hamid21@gmail.com**.
-
-- ⚡ Fun fact **I am out of reach**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
