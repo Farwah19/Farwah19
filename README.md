@@ -1,6 +1,7 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://i.postimg.cc/7ZBcjDqp/banner-sample.png" width="100%" height="auto" alt="GitHub Banner">
+  <img src="https://i.postimg.cc/0yQXgZTW/cyber-banner.png" width="100%" height="auto" alt="Cybersecurity GitHub Banner">
 </a>
+
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
 <h3 align="center">A passionate Cyber Security student from Pakistan</h3>
