@@ -1,9 +1,9 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://wallpaperaccess.com/full/4735130.jpg" width="100%" height="20%">
+  <img src="https://wallpaperaccess.com/full/4735130.jpg" width="75%" height="20%">
 </a>
 
 
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5">, I'm Farwah Hamid</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
 <h3 align="center">A passionate Cyber Security student from Pakistan</h3>
 
 <!--<p align="left"> <a href="https://twitter.com/farwah_hamid" target="blank"><img src="https://img.shields.io/twitter/follow/farwah_hamid?logo=twitter&style=for-the-badge" alt="farwah_hamid" /></a> </p>-->
