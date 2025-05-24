@@ -1,5 +1,5 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://i.postimg.cc/0yQXgZTW/cyber-banner.png" width="100%" height="auto" alt="Cybersecurity GitHub Banner">
+  <img src="https://i.postimg.cc/fy6YVj2x/sample-img.png" width="100%" height="20%">
 </a>
 
 
