@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">, I'm Farwah Hamid</h1>
 <h3 align="center">A passionate Cyber Security student from Pakistan</h3>
 
 <!--<p align="left"> <a href="https://twitter.com/farwah_hamid" target="blank"><img src="https://img.shields.io/twitter/follow/farwah_hamid?logo=twitter&style=for-the-badge" alt="farwah_hamid" /></a> </p>-->
