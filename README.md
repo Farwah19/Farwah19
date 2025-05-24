@@ -1,5 +1,5 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://i.postimg.cc/fy6YVj2x/sample-img.png" width="100%" height="20%">
+  <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="100%" height="20%">
 </a>
 
 
