@@ -1,7 +1,6 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://www.pngall.com/wp-content/uploads/5/Programming-PNG.png" width="100%" height="20%">
+  <img src="https://www.pngall.com/wp-content/uploads/5/Developer-PNG.png" width="100%" height="20%">
 </a>
-
 
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
 <h3 align="center">A passionate Cyber Security student from Pakistan</h3>
