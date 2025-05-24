@@ -1,5 +1,5 @@
 <a href="https://github.com/Farwah19">
-  <img src="https://wallpaperaccess.com/full/4735130.jpg" width="75%" height="20%">
+  <img src="https://wallpaperaccess.com/full/4735130.jpg" width="100%" height="10%">
 </a>
 
 
